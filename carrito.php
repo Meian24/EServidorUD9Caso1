@@ -41,7 +41,7 @@ if(isset($_GET['vaciar'])) {
 }
 
 //Creamos la cookie (24 horas)
-$iTemCad = time() + (60 * 60);
+$iTemCad = time() + (24 * 60 * 60);
 setcookie('carrito', serialize($aCarrito), $iTemCad);
 
 
