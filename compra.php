@@ -6,7 +6,7 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>Juegos</title>
+	<title>Compra</title>
 	<link rel="stylesheet" href="estiloTienda.css">
 </head>
 <body>
