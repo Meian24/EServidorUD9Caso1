@@ -10,14 +10,7 @@
 	<link rel="icon" href="imagenes/kero.jpg" type="image/jpg" sizes="192x192" />
 </head>
 <body>
-	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
-	<script type="text/javascript" src="js/jQuery/jquery.sticky.js"></script>
-	<script>
-  	$(document).ready(function(){
-    $("#header").sticky({topSpacing:0});
-  	});
-	</script>
-
+	
 	<div id="header">
 	<img class="logo" src="imagenes/kero.jpg" alt="logo frikiland">
 	<a href="carrito.php" ><img class="carrito" src="imagenes/carrito2.png"></a>
